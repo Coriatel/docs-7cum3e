@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://docs-bli4da.wedang77land.online/sitemap.xml
